@@ -2,5 +2,5 @@
 [farnaz03.github.io](https://farnaz03.github.io)
 
 
-index.html contains the simple code to upload the **pdf**.  
-Attached is my CV in pdf format: FarnazBaksh_CurriculumVitae.pdf
+- [x] index.html contains the simple code to upload the **pdf**.  
+- [x] Attached is my CV in pdf format: FarnazBaksh_CurriculumVitae.pdf
