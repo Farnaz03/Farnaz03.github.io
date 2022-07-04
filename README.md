@@ -1,2 +1,2 @@
 # Here lies the code for my personal CV
-[title](https://farnaz03.github.io)
+[farnaz03.github.io](https://farnaz03.github.io)
